@@ -57,3 +57,9 @@ Before I build out the frontend, I will install Next.js.
 npx create-next-app@latest frontend
 
 **Next.js** is a React framework that offers functionalities such as server-side rendering and generating static websites.
+
+I create the frontend folder via installing Next.js.
+
+(For some reason it doesn't want to show up on Github and I don't know why. I'll figure it out later probably.)
+
+I clean up the files and folders. I add a product folder with a dynamic [id]. js file inside.
